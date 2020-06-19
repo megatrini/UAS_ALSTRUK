@@ -5,9 +5,10 @@ int a, b, c, terbesar;
 
 main(){
  terbesar=0;
-   printf("MENENTUKAN NILAI TERBESAR \n");
-
-   printf("\n\n");
+ 		printf("Nama : Mega Trini Oktaviani\n");
+		printf("Kelas : B\n");
+		printf("NPM : 197006009\n\n");
+   printf("\t\tMENENTUKAN NILAI TERBESAR \n");
    printf("Masukan Nilai ke-satu: "); scanf("%i",&a);
    printf("\nMasukan Nilai Ke-Dua : "); scanf("%i",&b);
    printf("\nMasukan Nilai Ke-Tiga : "); scanf("%i",&c);
